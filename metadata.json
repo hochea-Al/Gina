@@ -1,0 +1,5 @@
+{
+  "name": "GINA App - Gestion de Chantier",
+  "description": "An offline-first mobile application for GINA GROUP SERVICES to manage stock and personnel attendance on construction sites, with synchronization capabilities to Odoo ERP.",
+  "requestFramePermissions": []
+}
